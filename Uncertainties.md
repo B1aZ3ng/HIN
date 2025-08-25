@@ -34,7 +34,7 @@ $$\text{Fractional Uncertainty} = \frac{\Delta l}{l} = \frac{0.05}{32.35}cm=0.00
 $$\text{Percentage Uncertainty} = \frac{\Delta l}{l} = \frac{0.05}{32.35}cm=0.15\%$$
 NOTE: Fractional Uncertainty CANNOT be expressed in the form of a FRACTION, you can only use DECIMALS or maybe PERCENTAGES.
 ### Combining Uncertainties
-bum doing ts tmrw
+
 
 
 

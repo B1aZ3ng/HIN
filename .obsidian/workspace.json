@@ -42,13 +42,14 @@
             "id": "fd643af3feb21a67",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Uncertainties.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Uncertainties"
             }
           },
           {
@@ -158,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Uncertainties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Uncertainties"
             }
           },
           {
@@ -225,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eaac2684a4c3bc08",
+  "active": "fd643af3feb21a67",
   "lastOpenFiles": [
-    "Francaise.md",
+    "Programming Fundamentals.md",
     "Untitled.base",
+    "Francaise.md",
     "Physics.md",
     "2025-08-22.md",
     "compsci excercises/flowchart.canvas",
@@ -238,7 +240,6 @@
     "Computational Thinking.md",
     "Units (Physics).md",
     "Uncertainties.md",
-    "Programming Fundamentals.md",
     "Welcome.md",
     "compsci excercises",
     "Untitled 4.base",
