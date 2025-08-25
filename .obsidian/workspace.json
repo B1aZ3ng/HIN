@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Fundamentals.md",
+                "file": "Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Programming Fundamentals"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -225,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd643af3feb21a67",
+  "active": "eaac2684a4c3bc08",
   "lastOpenFiles": [
     "Francaise.md",
     "Untitled.base",
