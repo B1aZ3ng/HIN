@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asd.md",
+                "file": "IA and Practical Work (Physics).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asd"
+              "title": "IA and Practical Work (Physics)"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Units (Physics).md",
+                "file": "Computational Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Units (Physics)"
+              "title": "Outgoing links from Computational Thinking"
             }
           },
           {
@@ -228,20 +228,22 @@
   },
   "active": "fd643af3feb21a67",
   "lastOpenFiles": [
-    "Programming Fundamentals.md",
-    "Units (Physics).md",
-    "asd.md",
-    "Uncertainties.md",
     "Physics.md",
-    "Untitled.base",
+    "IA and Practical Work (Physics).md",
+    "Uncertainties.md",
+    "Programming Fundamentals.md",
+    "hub.md",
     "Francaise.md",
+    "Computational Thinking.md",
+    "Computer Science.md",
+    "Welcome.md",
+    "asd.md",
+    "Units (Physics).md",
+    "nigger.md",
+    "Untitled.base",
     "2025-08-22.md",
     "compsci excercises/flowchart.canvas",
     "compsci excercises/excerciseB2.1.md",
-    "Computer Science.md",
-    "hub.md",
-    "Computational Thinking.md",
-    "Welcome.md",
     "compsci excercises",
     "Untitled 4.base",
     "Untitled 2.base",
