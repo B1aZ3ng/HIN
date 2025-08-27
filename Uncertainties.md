@@ -64,4 +64,14 @@ $$\frac{11.2\pm 0.3}{10} =\frac{11.2}{10}\pm \frac{0.3}{10}s = 1.12 \pm 0.03s$$
 ### Error Bars
 When you plot a data point on your graph, you must show the range of values between which the point could be. To do that you use error bars.
 
-![[error_bars.svg]]
+![[error_bars.svg]](https://datavizcatalogue.com/methods/error_bars.html)
+
+- Note that Datapoint could lie anywhere in the box created by the 2 axis of errors
+
+### Line of best fit
+When drawing the line of best fit, it should always pass through the box, although sometimes it might not
+
+### Min and Max Gradients
+After drawing the line of best fit, you draw 2 further lines, one with maximum possible gradient and one with minimum possible gradient.
+
+$$\text{Absolute Uncertainty in Gradients} = \frac{\text{Max Grad.} - \text{Min Grad.}}{2} $$
