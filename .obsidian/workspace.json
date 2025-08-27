@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sum of Harmonic Series.md",
+                "file": "Uncertainties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum of Harmonic Series"
+              "title": "Uncertainties"
             }
           }
         ],
@@ -211,18 +211,20 @@
   },
   "active": "93e5627b17a5450e",
   "lastOpenFiles": [
-    "Sequences.md",
-    "Programming Fundamentals.md",
     "Physics.md",
-    "IA and Practical Work (Physics).md",
-    "hub.md",
-    "Francaise.md",
-    "Computer Science.md",
     "Computational Thinking.md",
-    "\"Fun\" Physics Experiment.md",
+    "hub.md",
+    "Sequences.md",
     "Sum of Harmonic Series.md",
+    "Programming Fundamentals.md",
+    "files/error_bars.svg",
+    "\"Fun\" Physics Experiment.md",
+    "Computer Science.md",
+    "Francaise.md",
     "Uncertainties.md",
+    "files",
     "Units (Physics).md",
+    "IA and Practical Work (Physics).md",
     "asd.md",
     "2025-08-22.md",
     "compsci excercises/flowchart.canvas",

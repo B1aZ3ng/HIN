@@ -60,3 +60,8 @@ $$n(A\pm\Delta A) = n(A) \pm n(\Delta A)$$
 eg. if you measure 10 rotations of smth:
 you get $$11.2\pm 0.3s$$
 $$\frac{11.2\pm 0.3}{10} =\frac{11.2}{10}\pm \frac{0.3}{10}s = 1.12 \pm 0.03s$$
+## Graphs
+### Error Bars
+When you plot a data point on your graph, you must show the range of values between which the point could be. To do that you use error bars.
+
+![[error_bars.svg]]
