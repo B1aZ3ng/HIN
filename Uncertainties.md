@@ -75,3 +75,4 @@ When drawing the line of best fit, it should always pass through the box, althou
 After drawing the line of best fit, you draw 2 further lines, one with maximum possible gradient and one with minimum possible gradient.
 
 $$\text{Absolute Uncertainty in Gradients} = \frac{\text{Max Grad.} - \text{Min Grad.}}{2} $$
+a
