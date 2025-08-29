@@ -53,12 +53,14 @@
             "id": "5190d6a3abd75f7e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Physics"
             }
           }
         ],
@@ -223,6 +225,8 @@
   },
   "active": "5190d6a3abd75f7e",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Welcome.md",
     "Physics.md",
     "Computational Thinking.md",
     "hub.md",
@@ -240,9 +244,7 @@
     "asd.md",
     "2025-08-22.md",
     "compsci excercises/flowchart.canvas",
-    "Welcome.md",
     "nigger.md",
-    "Untitled.base",
     "compsci excercises/excerciseB2.1.md",
     "compsci excercises",
     "Untitled 4.base",
