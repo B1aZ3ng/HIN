@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Uncertainties"
             }
+          },
+          {
+            "id": "5190d6a3abd75f7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93e5627b17a5450e",
+  "active": "5190d6a3abd75f7e",
   "lastOpenFiles": [
     "Physics.md",
     "Computational Thinking.md",
