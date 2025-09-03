@@ -29,3 +29,9 @@ $$A+B = (A_{h}+B_{h})^2 + (A_{v}+B_{v})^2$$
 **Scalar** is a magnitude not including direction
 - eg. Distance vs Displacement: Distance = length of path travelled Displacement = Final location - initial location
 
+some formulae
+$$\text{Average Speed} = \frac{\text{Distance}}{\text{Time}}$$
+$$\text{Velocity} = \frac{\text{Displacement}}{\text{Time}}$$
+$$\text{Acceleration} = \frac{\Delta v}{t} = \frac{v-u}{t}$$
+Gradient of d/t graph = speed
+4501

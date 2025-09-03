@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinematics"
+              "title": "Data Structures"
             }
           }
         ],
@@ -268,9 +268,12 @@
   },
   "active": "aaa38a4ae128892d",
   "lastOpenFiles": [
+    "Computer Science.md",
+    "Proofs.md",
+    "Mathematics.md",
+    "Kinematics.md",
     "Physics.md",
     "Data Structures.md",
-    "Computer Science.md",
     "Untitled.md",
     "Programming Constructs.md",
     "Sequences.md",
@@ -280,8 +283,6 @@
     "French.md",
     "hub.md",
     "IA and Practical Work (Physics).md",
-    "Mathematics.md",
-    "Kinematics.md",
     "Programming Fundamentals.md",
     "Sum of Harmonic Series.md",
     "compsci excercises/excerciseB2.1.md",
