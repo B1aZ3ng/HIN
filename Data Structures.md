@@ -21,4 +21,19 @@ push(), pop(), isEmpty(), peek
 Recursive algorithms, Parsing, Undo functions, Reversing a string
 
 # Queues:
-First in - First out principle
+First in - First out (FIFO) data structures. This means that the most recent piece of data to be placed in the queue is the last piece taken out.
+```
+enqueue() - add data to the back of the queue
+dequeue ()  - removes data from the front of the queue
+isEmpty() - self-explanatory
+front() - views the data in the front of the queue without removing it
+```
+
+
+### Examples
+Printer queue, music streaming, networking
+
+### Advantages:
+
+### Disadvantage:
+

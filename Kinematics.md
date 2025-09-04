@@ -34,4 +34,11 @@ $$\text{Average Speed} = \frac{\text{Distance}}{\text{Time}}$$
 $$\text{Velocity} = \frac{\text{Displacement}}{\text{Time}}$$
 $$\text{Acceleration} = \frac{\Delta v}{t} = \frac{v-u}{t}$$
 Gradient of d/t graph = speed
-4501
+
+| Uniform Velocity | Uniform acceleration         |                                           |
+| ---------------- | ---------------------------- | ----------------------------------------- |
+| $$s=v*t$$        | $$ v = u + at$$              | has v,u,a,t                               |
+|                  | $$v^2=u^2+2as$$              | has v,u,a,s                               |
+|                  | $$s = \frac{1}{2}(u+v)t$$    | has v,u,s,t<br>average velocity<br>* time |
+|                  | $$s = ut + \frac{1}{2}at^2$$ | u,a,s,t                                   |
+
