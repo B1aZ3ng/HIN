@@ -23,12 +23,13 @@ B'⇒A' : Always true
 Eg.
 assuming its trueto prove true
 $$\Sigma_{k=1}^n = \frac{k(k+1)(2k+1)}{6}$$
-Base case:
+Base case: let n=1
 $$ \text{for } n = 1\text{, } left = 1^2-1= 1\text{, } right = \frac{1*2*3}{6} = 1$$
 
+assume true for n = k
 shows true for n + k + 1 -> want to show that sum of n^2 for 
 
-
+let n = k+1
 we are proving that this is true
 $$\Sigma ^{k+1}_{n=1}n^2 = \Sigma ^{k}_{n=1}n^2+(k+1)^2$$
 $$=\frac{k(k+1)(2k+1)}{6}+(k+1)^2$$
@@ -38,5 +39,4 @@ $$=\frac{k(k+1)(2k+1)}{6}+(k+1)^2$$
 $$\Sigma ^{k+1}_{n=1}n^2 = \frac{(k+1)((k+1)+1)(2(k+1)+1)}{6} = \frac{1}{6}(k+1)(2k+3)(k+3)$$
 	therefore
 $$=\frac{1}{6}(k+1)(2k+3)(k+3)\equiv\Sigma ^{k+1}_{n=1}n^2$$ therefore 
-
-
+conclusion

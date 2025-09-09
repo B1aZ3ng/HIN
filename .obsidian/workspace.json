@@ -4,137 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "27a4b75e81cda803",
+        "id": "51ea0e75fe0212bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3d60088d87d6b05e",
+            "id": "f3a4d509d1db8454",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "\"Fun\" Physics Experiment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "\"Fun\" Physics Experiment"
-            }
-          },
-          {
-            "id": "baa06f7c04341015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequences.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sequences"
-            }
-          },
-          {
-            "id": "93e5627b17a5450e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uncertainties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uncertainties"
-            }
-          },
-          {
-            "id": "5190d6a3abd75f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uncertainties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uncertainties"
-            }
-          },
-          {
-            "id": "fe4498e9d8085757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Constructs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming Constructs"
-            }
-          },
-          {
-            "id": "998883c6c3ba560c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Structures"
-            }
-          },
-          {
-            "id": "aaa38a4ae128892d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proofs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proofs"
-            }
-          },
-          {
-            "id": "8ccc6891861145d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projectile Motion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projectile Motion"
-            }
-          },
-          {
-            "id": "caa57f8e3adb2b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Searching and Sorting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Searching and Sorting"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Fundamentals"
+              "title": "Backlinks"
             }
           },
           {
@@ -226,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Thinking.md",
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Computational Thinking"
+              "title": "Outgoing links from Kinematics"
             }
           },
           {
@@ -293,38 +175,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ccc6891861145d5",
+  "active": "f3a4d509d1db8454",
   "lastOpenFiles": [
-    "Programming Constructs.md",
     "Proofs.md",
-    "Physics.md",
-    "Projectile Motion.md",
-    "Kinematics.md",
-    "Searching and Sorting.md",
+    "Big O notation.md",
     "Computer Science.md",
-    "Mathematics.md",
+    "Computational Thinking.md",
     "IA and Practical Work (Physics).md",
+    "Physics.md",
+    "'Fun' Physics Experiment.md",
+    "Kinematics.md",
+    "Mathematics.md",
+    "Programming Fundamentals.md",
+    "Searching and Sorting.md",
+    "Sum of Harmonic Series.md",
+    "Uncertainties.md",
+    "Untitled.md",
+    "Units (Physics).md",
+    "Sequences.md",
+    "Projectile Motion.md",
+    "Data Structures.md",
+    "Programming Constructs.md",
     "hub.md",
     "French.md",
     "Francaise.md",
-    "Data Structures.md",
-    "Computational Thinking.md",
-    "Untitled.md",
-    "Sequences.md",
-    "'Fun' Physics Experiment.md",
-    "Programming Fundamentals.md",
-    "Sum of Harmonic Series.md",
     "compsci excercises/excerciseB2.1.md",
     "compsci excercises/flowchart.canvas",
     "files/error_bars.svg",
-    "Uncertainties.md",
     "Untitled.base",
     "Welcome.md",
     "\"Fun\" Physics Experiment.md",
     "files",
-    "Units (Physics).md",
     "asd.md",
-    "2025-08-22.md",
     "compsci excercises",
     "Untitled 4.base",
     "Untitled 2.base",

@@ -42,3 +42,4 @@ Gradient of d/t graph = speed
 |                  | $$s = \frac{1}{2}(u+v)t$$    | has v,u,s,t<br>average velocity<br>* time |
 |                  | $$s = ut + \frac{1}{2}at^2$$ | u,a,s,t                                   |
 
+64
