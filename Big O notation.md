@@ -14,3 +14,7 @@ To calculate the time complexity, consider how many operations of the algorithm 
 	- if run time doubles with every linear increase of the input size: O(2^n)
 	- if scales logarithmically: O(log n)
 
+
+## Space complexity
+-  just whether how much memory is being used by a algorithm (by the input ofc)
+- 

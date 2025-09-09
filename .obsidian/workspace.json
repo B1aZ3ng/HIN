@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51ea0e75fe0212bd",
+        "id": "9a0515bd52930cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a4d509d1db8454",
+            "id": "800b53cba383ab6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Uncertainties.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Uncertainties"
             }
           }
         ]
@@ -175,11 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3a4d509d1db8454",
+  "active": "800b53cba383ab6f",
   "lastOpenFiles": [
-    "Proofs.md",
-    "Big O notation.md",
+    "Sum of Harmonic Series.md",
+    "Searching and Sorting.md",
+    "Sequences.md",
+    "Uncertainties.md",
+    "Units (Physics).md",
+    "Untitled.md",
+    "HUB.md",
     "Computer Science.md",
+    "Big O notation.md",
+    "Proofs.md",
     "Computational Thinking.md",
     "IA and Practical Work (Physics).md",
     "Physics.md",
@@ -187,16 +198,9 @@
     "Kinematics.md",
     "Mathematics.md",
     "Programming Fundamentals.md",
-    "Searching and Sorting.md",
-    "Sum of Harmonic Series.md",
-    "Uncertainties.md",
-    "Untitled.md",
-    "Units (Physics).md",
-    "Sequences.md",
     "Projectile Motion.md",
     "Data Structures.md",
     "Programming Constructs.md",
-    "hub.md",
     "French.md",
     "Francaise.md",
     "compsci excercises/excerciseB2.1.md",
