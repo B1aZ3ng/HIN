@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncertainties.md",
+                "file": "Space Time and Motion.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Uncertainties"
+              "title": "Space Time and Motion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:phys",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,28 +181,29 @@
   },
   "active": "800b53cba383ab6f",
   "lastOpenFiles": [
+    "Physics.md",
+    "HUB.md",
+    "Space Time and Motion.md",
+    "Big O notation.md",
+    "Francaise.md",
+    "French.md",
+    "Uncertainties.md",
+    "Sequences.md",
+    "Proofs.md",
+    "Projectile Motion.md",
     "Sum of Harmonic Series.md",
     "Searching and Sorting.md",
-    "Sequences.md",
-    "Uncertainties.md",
     "Units (Physics).md",
     "Untitled.md",
-    "HUB.md",
     "Computer Science.md",
-    "Big O notation.md",
-    "Proofs.md",
     "Computational Thinking.md",
     "IA and Practical Work (Physics).md",
-    "Physics.md",
     "'Fun' Physics Experiment.md",
     "Kinematics.md",
     "Mathematics.md",
     "Programming Fundamentals.md",
-    "Projectile Motion.md",
     "Data Structures.md",
     "Programming Constructs.md",
-    "French.md",
-    "Francaise.md",
     "compsci excercises/excerciseB2.1.md",
     "compsci excercises/flowchart.canvas",
     "files/error_bars.svg",
@@ -210,7 +211,6 @@
     "Welcome.md",
     "\"Fun\" Physics Experiment.md",
     "files",
-    "asd.md",
     "compsci excercises",
     "Untitled 4.base",
     "Untitled 2.base",
