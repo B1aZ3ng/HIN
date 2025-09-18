@@ -1,10 +1,11 @@
 
 ##### Contact Forces
-Normal Contact Force $F_n$
-Friction Force $F_f$
-Tension Force $F_T$
-Elastic Restoring Force $F_H$
-Buoyancy Force $F_v$
+[[#Normal Contact Force $F_N$]]
+[[#Friction]]
+[[#Tension Force $F_t$]]
+[[#Buoyancy]]
+[[#Elastic Restoring Force $F_H$]]
+
 ##### Non-Contact Forces
 Gravitational Force $F_g$
 Magnetic Force $F_m$
@@ -84,3 +85,22 @@ assumptions for stokes law
  - Sphere is smooth
  - fluid is homogenous
  - fluid particles do not interact with each other
+## Elastic Restoring Force $F_H$
+When an elastic object eg. spring is stretched, there will be an elastic restoring force developed in the spring, which acts in the opposite direction to the displacement
+
+### Hookes Law 
+the Elastic Restoring Force acting on an elastic object is directly proportional to the extension.
+
+The direction of the elastic restoring force will always be opposite to the direction of the extension
+$$F \propto -x $$
+$$ F = -kx$$
+k is the spring constant / Nm^-1
+
+## Springs in series
+The load is the same for both springs - they both stretch under the load, so their extension is cumulative.
+x = extension
+$$ x_{\text{total}} = x_{1}+x_{2}+ \dots +x_{n}$$
+$$\frac{F_{\text{total}}}{k_{\text{total}}} = \frac{F_{1}}{x_{1}}+ \frac{F_{2}}{x_{2}}+\dots+\frac{F_{n}}{x_{n}}$$
+	$$\frac{1}{k_{\text{total}}} = \frac{1}{k_{1}} +\frac{1}{k_{2}}\dots \frac{1}{k_{n}}$$
+### Springs in Parrallel
+$$F_{\text{total}} = F_{1} + F_{2}$$

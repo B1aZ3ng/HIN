@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3c30f26a30f5db",
+        "id": "0e0e73564179c94b",
         "type": "tabs",
         "children": [
           {
-            "id": "792ed374b69a2e36",
+            "id": "951ef96d2470e90b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,9 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792ed374b69a2e36",
+  "active": "951ef96d2470e90b",
   "lastOpenFiles": [
     "Forces.md",
+    "Tension Force $F_T$.md",
+    "Elasticity.md",
     "Physics.md",
     "Programming Constructs.md",
     "Untitled.md",
@@ -199,11 +201,9 @@
     "Units (Physics).md",
     "Computational Thinking.md",
     "IA and Practical Work (Physics).md",
-    "compsci excercises/excerciseB2.1.md",
     "compsci excercises/flowchart.canvas",
     "files/error_bars.svg",
     "Untitled.base",
-    "Welcome.md",
     "files",
     "compsci excercises",
     "Untitled 4.base",
