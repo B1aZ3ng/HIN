@@ -1,4 +1,9 @@
+
 Section A
+A1.2 [[Data Representation]]
+[[Images and Audio]]
+
+[[Computer Logic]]
 
 Section B
 B1. [[Computational Thinking]]
@@ -8,4 +13,3 @@ B2.4 [[Searching and Sorting]]
 B2.4 [[Big O notation]]
 B2.5 [[Data Structures]]
 B2.6 [[Recursion]]
-

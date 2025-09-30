@@ -68,7 +68,9 @@ $$F_{b} = \rho Vg$$
 - When an object floats, it will float such that the volume of the object below the surface displaces an amount of fluid equal to the weight of the object.
 
 
-## (Viscous) Drag Force
+## (
+
+Viscous) Drag Force
 
 Objects mvoing through fluid experience a resistance to their motion which we call drag
 
