@@ -11,41 +11,14 @@
             "id": "10b35079acd5e48c",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "52361803df26dfca",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Opportunity Cost.md",
+                "file": "Computer Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opportunity Cost"
-            }
-          },
-          {
-            "id": "16a7903d2037748b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Computer Logic"
             }
           },
           {
@@ -72,8 +45,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hub",
+                "query": "Forces",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Computer Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resources"
+              "title": "Backlinks for Computer Logic"
             }
           },
           {
@@ -231,22 +203,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a7903d2037748b",
+  "active": "10b35079acd5e48c",
   "lastOpenFiles": [
-    "Energy.md",
-    "Resources.md",
-    "Opportunity Cost.md",
+    "Computer Science.md",
+    "Computer Logic.md",
+    "Logic Gates.md",
+    "hub.md",
+    "Untitled.base",
     "Terms.md",
     "Scarcity.md",
-    "Untitled.base",
+    "Resources.md",
+    "Opportunity Cost.md",
     "Free Good.md",
-    "Economics.md",
-    "hub.md",
-    "Choice.md",
     "Efficiency.md",
+    "Economics.md",
+    "Choice.md",
     "Images and Audio.md",
-    "Computer Science.md",
     "Work Done.md",
+    "Energy.md",
     "Circular Motion.md",
     "Forces.md",
     "Physics.md",
@@ -258,7 +232,6 @@
     "HUB.md",
     "Momentum.md",
     "Recursion.md",
-    "Proofs.md",
     "compsci excercises/flowchart.canvas",
     "files/error_bars.svg",
     "files",

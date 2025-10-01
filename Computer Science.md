@@ -2,7 +2,7 @@
 Section A
 A1.2 [[Data Representation]]
 [[Images and Audio]]
-
+[[Logic Gates]]
 [[Computer Logic]]
 
 Section B
