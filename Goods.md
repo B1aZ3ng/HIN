@@ -1,0 +1,3 @@
+
+Inferior, Normal and Luxury
+
