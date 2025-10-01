@@ -1,0 +1,1 @@
+indicates the ways resources are allocated (duh)

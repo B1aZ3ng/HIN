@@ -21,34 +21,6 @@
             }
           },
           {
-            "id": "52361803df26dfca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opportunity Cost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Opportunity Cost"
-            }
-          },
-          {
-            "id": "16a7903d2037748b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
             "id": "810b0d9da38a10ed",
             "type": "leaf",
             "state": {
@@ -64,6 +36,30 @@
           },
           {
             "id": "5b3259ec78700300",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "16a7903d2037748b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supply"
+            }
+          },
+          {
+            "id": "d405bc6ac022823e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -126,8 +122,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,34 +226,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a7903d2037748b",
+  "active": "5b3259ec78700300",
   "lastOpenFiles": [
-    "Energy.md",
-    "Resources.md",
-    "Opportunity Cost.md",
+    "Allocation of Resources.md",
     "Terms.md",
-    "Scarcity.md",
-    "Untitled.base",
-    "Free Good.md",
-    "Economics.md",
-    "hub.md",
-    "Choice.md",
-    "Efficiency.md",
-    "Images and Audio.md",
-    "Computer Science.md",
-    "Work Done.md",
-    "Circular Motion.md",
-    "Forces.md",
-    "Physics.md",
-    "Untitled 1.md",
+    "Price Mechanism.md",
+    "Market Equilibrium.md",
+    "Supply.md",
+    "Costs of Production.md",
+    "Energy.md",
+    "Subsidy.md",
+    "Law of Supply.md",
+    "Quantity Supplied.md",
+    "Market Demand.md",
     "Data Representation.md",
-    "Computational Thinking.md",
-    "Francaise.md",
-    "Data Structures.md",
-    "HUB.md",
+    "Programming Constructs.md",
+    "Physics.md",
+    "Opportunity Cost.md",
     "Momentum.md",
-    "Recursion.md",
-    "Proofs.md",
+    "Demand.md",
+    "Goods.md",
+    "Untitled.base",
+    "Ceteris Paribus.md",
+    "Quantity Demanded.md",
+    "Law of Demand.md",
+    "Economics.md",
+    "Market.md",
+    "Uncertainties.md",
+    "Units (Physics).md",
+    "Searching and Sorting.md",
     "compsci excercises/flowchart.canvas",
     "files/error_bars.svg",
     "files",

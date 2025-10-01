@@ -7,3 +7,15 @@
 [[Free Good]]
 [[Resources]]
 
+[[Market]]
+[[Demand]]
+[[Law of Demand]]
+[[Market Demand]]
+[[Supply]]
+[[Quantity Supplied]]
+[[Law of Supply]]
+[[Costs of Production]]
+[[Market Equilibrium]]
+[[Price Mechanism]]
+[[Allocation of Resources]]
+
