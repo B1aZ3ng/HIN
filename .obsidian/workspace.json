@@ -44,8 +44,23 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "b75a91698d29887f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10b35079acd5e48c",
+  "active": "b75a91698d29887f",
   "lastOpenFiles": [
-    "Computer Science.md",
     "Computer Logic.md",
+    "Computer Science.md",
     "Logic Gates.md",
     "hub.md",
     "Untitled.base",
