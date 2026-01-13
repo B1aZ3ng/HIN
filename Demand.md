@@ -22,3 +22,4 @@ if more ppl in the world dewmand will rise
 ##### Price of complements
 Complement is 2 or more things that tend to be used togather
 if price of complement decrease, demand for ts increase
+

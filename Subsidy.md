@@ -1,1 +1,7 @@
-a sum of money granted by the state or a public body to help an industry or business keep the price of a [commodity](https://www.google.com/search?sca_esv=409625519d2394b4&sxsrf=AE3TifNKQYeJ0dvRj8cfWTpZHJTFplTRgg:1759329427526&q=commodity&si=AMgyJEu0vuRfTngwPFrZh1qV1iGH5eGEoDnqaYSM9lELUb6X_f5Mtwv5xEEiG1Y9x-IpVZW5VPud1onjCqgkaoyrWRqQTtX_9QfMRuULJTDhKVHbd-eb2Fw%3D&expnd=1&sa=X&ved=2ahUKEwj4h8jsnIOQAxVUS2wGHeV3J_UQyecJegQIHBAR) or service low. - google cuz ceebss
+A direct payment from the government to firms for a variety of reasons
+
+Refers to assistance given by the government to individuals/groups of individuals such as firms, consumers, industries and sectors of economy. This can be in the form of: 
+- direct cash payments or other forms such as low-interest or zero interest loans
+- Provision of goods and services by the government at below-market prices
+- tax relief - low or no taxes
+- more

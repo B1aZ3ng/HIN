@@ -1,4 +1,4 @@
-Angular + stuff
+wAngular + stuff
 
 
 Angular displacement $\theta$
@@ -21,5 +21,29 @@ in circulqr ,otion in unifor, curci
 
 $$a=\omega ^2r$$
       
-Centripetal force
+dCentripetal force
 $$\mu F_{N} = \frac{mv^2}{r}=m\omega^2r$$Work done
+
+
+### Angular Acceleration ($\alpha$)
+$$ \alpha = \frac{\Delta\omega}{t} $$
+similar to $a = \frac{v-u}{t}$
+
+$$ \alpha = \frac{\omega_{f} - \omega _{i}}{t}  $$
+Literally suvat equations
+
+$$ \theta = \frac{\omega_{i}+\omega_{f}}{2}t$$
+##### Also
+in the same way that $v = \omega r$
+$$ \alpha = ar$$
+
+
+
+## torque ($\tau$)
+same as moment
+
+A rotational effect of a force
+$$\tau = Fr$$
+
+
+

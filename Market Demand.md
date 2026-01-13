@@ -1,4 +1,4 @@
-Sum of all individual [[Demand]]s for a good
+Sum of all individual [[Demand|Demands]] for a good
 
 Market demand shows the **total quantities** for the good consumers are **willing** to buy at **different prices** during a **particular period of time**, [[Ceteris Paribus]]
 

@@ -19,3 +19,4 @@
 [[Price Mechanism]]
 [[Allocation of Resources]]
 
+[[Elasticities]]
