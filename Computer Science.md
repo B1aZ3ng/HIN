@@ -2,10 +2,15 @@
 
 Section A
 A1.1 [[Computer Hardware and Operations]]
+[[Primary Memory]]
 A1.2 [[Data Representation]]
 [[Images and Audio]]
 [[Logic Gates]]
 [[Computer Logic]]
+[[Storage]]
+[[Compression]]
+[[Cloud Service]]
+
 
 Section B
 B1. [[Computational Thinking]]
@@ -18,3 +23,4 @@ B2.6 [[Recursion]]
 
 B3 [[Object Oriented Programming]]
 B3.3 [[Abstract Data Types]]
+2

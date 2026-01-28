@@ -9,6 +9,7 @@ Practical: [['Fun' Physics Experiment]]
 [[Energy]]?
 [[Work Done]]
 [[Power]]
+[[Electric and Magnetic Fields]]
 
 A2:
 [[Forces]]

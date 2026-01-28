@@ -121,3 +121,9 @@ $$ V_{2} = V_{\text{Cell}} * \frac{R_{2}}{R_{1}+R_{2}}$$
 By changing the resistance ratio of a pair of resistors in series, we can change  the output voltage of another secondary circuit/component
 
 See thermistor and LDR circuits
+
+# Terminal Potential difference:
+actual potential difference of a circuit, lower than [[Electicity#EMF (electromotive force) $ epsilon$|EMF]] due to battery internal resistance
+$$ IR = \epsilon - Ir$$
+larger the current, lowers terminal potential difference.
+
