@@ -10,7 +10,8 @@ A1.2 [[Data Representation]]
 [[Storage]]
 [[Compression]]
 [[Cloud Service]]
-
+[[Operating System]]
+[[]]
 
 Section B
 B1. [[Computational Thinking]]
