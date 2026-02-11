@@ -49,5 +49,22 @@ Operating systems can handle many tsasks at once
 - Occurs when processes form a circular ? - Process A holds Resource 1 and waits for resource 2, while Process B holds Resource 2 and waits for Resource 1
 - Deadlock Prevention techniques, eg. resource ordering, monitoring resource allocation, or recovery - terminating or rolling back processes.
 # Interrupts
-A signal
+A signal that tells the OS that somnething needs attention
+Useful when events don't occur regularly unlike polling
 
+What happens with interruopts:
+1. Interrupt recieved
+2. Process state saved (FDE cycle is finished and saved)
+3. interrupt processed/serviced
+4. Process re-loaded, execution continues
+5. for less frequent / triggered stuff, like mouse movement, mouse click etc.
+
+# Polling
+- allows one unit to check the status of another unit at regular intervals
+- checks regularly for new stuff
+- constantly requires processing power 
+- can be more efficient in some cases, like when things are constantly changing
+- for stuff which is happening very regularly. unlike interrupts
+- good for high-frequency events where constantly checking is justified, like time, resource monitoring, etc.
+- more power & more CPU overhead
+- 

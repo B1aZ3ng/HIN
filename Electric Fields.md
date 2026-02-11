@@ -1,3 +1,6 @@
+NOTE: E = Electric field strength
+E_p = Electric Potential Energy
+
 # Coulombs law
 
 The magnitude of the electric force between 2 point charges
@@ -73,7 +76,56 @@ E = Fr (r = distance)
 using integration
 $$ W = k\frac{Qq}{r}$$
 $$ E_{Q} = (\pm) k\frac{Qq}{r}$$
-Energy is a scalar, so it will always be positive
+if attractive its -, if repelling its +
+Energy is a scalar, so it will always be positive HOWEEVER it can be negative when its relative to something
 
 
-![[Screenshot 2026-02-03 at 09.32.11.png]]![[Screenshot 2026-02-03 at 09.32.19.png]]
+![[Screenshot 2026-02-03 at 09.32.11.png]]
+decreases to 0
+![[Screenshot 2026-02-03 at 09.32.19.png]]
+# Electric Potential
+increases to 0
+Seperating to 1 point charge or smth
+$$ F_{k} = \frac{kQq}{r^2}$$
+since Electric field strengh
+$$ E = \frac{F_{k}}{q}$$
+$$ E = \frac{kQ}{r^2}$$
+Force per coloumb
+potential energy
+$$E_{p} = \frac{kQq}{r}$$
+since potential energy = joules
+potential difference (voltage) = joules per coloumb
+$$V_{e} = \frac{E_{p}}{q}$$
+**so Electric Potential** (potential diff)= 
+$$ V_{e} = \frac{kQ}{r}$$
+- it describes how much energy each coulomb of charge would have at that location.
+
+### E and V in a sphere
+
+inside the sphere, Electric field strength (E) is 0
+and Electric potential in the sphere the same as the radius of the sphere
+
+### Moving a charge through electric field
+you need to do work
+$$ W = \Delta E_{p}$$
+since $$ V_{e} = \frac{E_{p}}{q}$$rearranging
+$$ W = qV_{e2}-qV_{e1} = q\Delta V_{e}$$
+
+basically E (W) = QV in electricity
+
+SAME fore negative charge BUT THE work done will be negative
+
+# Equipotential Lines
+equi - potential lines
+Contour line for electric field - everywhere on the line has the same potential
+Always perpendicular to field line
+
+There is no in Electric Potential energy when you stay on a line
+
+### Electric Potential Gradient
+equipotential lines close togather Change in electric potential is occuring over a short distance = more Electric Field Strength
+The potential Gradient or rate of change of potential is related to electric filed strength.
+
+$$\frac{dV_{e}}{dr} = -k \frac{Q}{r^2}$$
+which is basically negative Electric field strength ($k\frac{Q}{r^2}$)
+$$ \frac{dV_{e}}{r} = -E$$

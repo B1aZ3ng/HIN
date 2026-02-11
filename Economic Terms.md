@@ -20,3 +20,7 @@
 [[Allocation of Resources]]
 
 [[Elasticities]]
+
+[[Market Failure]]
+[[Externalities]]
+[[Common Pool Resources]]
