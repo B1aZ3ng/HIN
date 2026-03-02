@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf65ef9d910cef35",
+        "id": "fff28b7d61bf0a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "dc23811ce193e255",
+            "id": "3781efd8e51f8f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Pool Resources.md",
+                "file": "Gravitational Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Pool Resources"
+              "title": "Gravitational Fields"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "newton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,19 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc23811ce193e255",
+  "active": "3781efd8e51f8f6e",
   "lastOpenFiles": [
-    "Market Failure.md",
-    "Externalities.md",
+    "Forces.md",
+    "Gravitational Fields.md",
+    "Electric Fields.md",
+    "hub.md",
+    "Screenshot 2026-03-02 at 14.51.30.png",
+    "definition-of-an-ellipse-with-foci.webp",
+    "Physics.md",
+    "Databases.md",
+    "Screenshot 2026-02-27 at 15.16.00.png",
+    "Computer Science.md",
+    "GYDcP.png",
+    "Translators.md",
     "Common Pool Resources.md",
+    "Externalities.md",
+    "Market Failure.md",
     "Economic Terms.md",
     "Economics.md",
     "Control Systems.md",
-    "Physics.md",
     "Magnetic Fields.md",
-    "Electric Fields.md",
-    "hub.md",
-    "Computer Science.md",
     "Operating System.md",
     "Screenshot 2026-02-03 at 09.32.19.png",
     "Screenshot 2026-02-03 at 09.32.11.png",
@@ -208,15 +216,10 @@
     "files/Screenshot 2025-10-23 at 11.09.22 AM.png",
     "Computer Logic.md",
     "Electicity.md",
-    "Computer Hardware and Operations.md",
-    "'Fun' Physics Experiment.md",
-    "Price Elasticity of Demand (PED).md",
-    "Subsidy.md",
     "Screenshot 2025-10-23 at 11.09.22 AM.png",
     "Untitled.canvas",
     "Untitled.base",
     "compsci excercises/flowchart.canvas",
-    "files/error_bars.svg",
     "files",
     "compsci excercises",
     "Untitled 4.base",

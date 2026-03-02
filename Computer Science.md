@@ -12,6 +12,9 @@ A1.2 [[Data Representation]]
 [[Cloud Service]]
 [[Operating System]]
 [[Control Systems]]
+A1.4 [[Translators]]
+
+A3.1 [[Databases]]
 
 
 Section B

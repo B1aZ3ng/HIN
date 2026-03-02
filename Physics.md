@@ -9,8 +9,8 @@ Practical: [['Fun' Physics Experiment]]
 [[Energy]]?
 [[Work Done]]
 [[Power]]
-[[Electric Fields]]
-[[Magnetic Fields]]
+
+
 
 A2:
 [[Forces]]
@@ -18,13 +18,13 @@ A2:
 [[Circular Motion]]
 [[Motion]]
 [[Center of Mass]]
-
-
-
+idk
 [[Simple Harmonic Motion]]
-
 [[Wave Phenomenon]]
-
 [[Electicity]]
 
+ D:
+[[Electric Fields]]
+[[Magnetic Fields]]
+ [[Gravitational Fields]]
  

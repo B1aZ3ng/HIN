@@ -13,6 +13,8 @@ k is Coulomb constant (8.99 * 10^9 in vacuum)
 r is distance
 
 note since n/r^2 its inverse square law
+similar to [[Gravitational Fields#Gravitational Field]]
+
 ## Coulomb's Constant
 dependant on $\epsilon_{0}$ which is the permittivity of free space, assuming that the electric charges interaact in vacuum
 so $$ k = \frac{1}{4\pi\epsilon_{0}}$$
